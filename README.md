@@ -1,2 +1,2 @@
-# staticappnow
-dev first time try
+# galapdevappstunnape
+devsz
